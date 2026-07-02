@@ -1,0 +1,13 @@
+gradio
+pandas
+matplotlib
+pillow
+transformers
+torch
+torchvision
+torchaudio
+scikit-learn
+numpy
+accelerate
+sentencepiece
+protobuf
